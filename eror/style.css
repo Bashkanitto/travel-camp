@@ -1,0 +1,50 @@
+body{
+    margin: 300px 800px;
+}
+h1{
+    margin-left: 30px;
+    font-size: 200px;
+}
+h2{
+    position: absolute;
+    font-size: 42px;
+    color: grey;
+    top: 500px;
+    left: 950px;
+}
+.eye1{
+    position: absolute;
+    background-color: black;
+    border-radius: 100%;
+    padding: 50px;
+    top: 300px;
+    left: 650px;
+}
+.eye2{
+    position: absolute;
+    background-color: black;
+    border-radius: 100%;
+    padding: 50px;
+    top: 300px;
+    right: 600px;
+}
+.smile{
+    position: absolute;
+    background-color: black;
+    padding: 200px;
+    border-radius: 100%;
+}
+.smile-white{
+    position: absolute;
+    margin-top: 20px;
+    background-color: white;
+    padding: 200px;
+    border-radius: 100%;
+}
+.smile-break{
+    position: absolute;
+    margin-top: 120px;
+    background-color: white;
+    padding: 200px;
+
+}
